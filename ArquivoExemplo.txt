@@ -3,10 +3,10 @@ publi class OlaMundo {
 
 
           public static void main (String[] args){
-              //Exibe a frase "Mundo?" no console.
-              System.out.println("Mundo?");
+              //Exibe a frase "Cadê o Mundo?" no console.
+              System.out.println("Cadê o Mundo?");
 
 
 }//Fim do método principal
- }//Fim da classe "Mundo?"
+ }//Fim da classe "Cadê o Mundo?"
 
