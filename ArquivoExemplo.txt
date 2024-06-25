@@ -3,8 +3,8 @@ publi class OlaMundo {
 
 
           public static void main (String[] args){
-              //Exibe a frase "TchauMundo:(" no console.
-              System.out.println("TchauMundo:(");
+              //Exibe a frase "OlaMundo" no console.
+              System.out.println("OlaMundo");
 
 
 }//Fim do método principal
