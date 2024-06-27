@@ -80,3 +80,5 @@ public class CalculadoraGUI extends JFrame implements ActionListener {
         new CalculadoraGUI();
     }
 }
+
+Segunda versão
